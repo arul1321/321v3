@@ -1113,7 +1113,7 @@ Silahkan Pilih Untuk Menampilkan Menu
 Jika Button Tidak Muncul Ketik .allmenu`
 menu =` ArulGanz🏴‍☠️`
 gbutsan = [
-{buttonId:`allmenu`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
+{buttonId:`command`,buttonText:{displayText:'🏴‍☠️SHOW MENU🏴‍☠️'},type:1},
 {buttonId:`store`,buttonText:{displayText:'🔰STORE MENU🔰'},type:1},
 {buttonId:`script`,buttonText:{displayText:'🤖SEWABOT🤖'},type:1}
 ]
